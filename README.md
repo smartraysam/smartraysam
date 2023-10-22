@@ -24,7 +24,7 @@
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications, embedded software, mobile applications, and Native desktop applications for both Windows and Mac.
 
-- :seedling: Exploring Technical Content Writing, system designs, devOps
+- :seedling: Exploring Technical Content Writing, System Designs, DevOps and Embedded Linux.
 
 - :zap: In my free time, I love watching movies,  solving problems, and reading tech articles.
 
