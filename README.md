@@ -24,44 +24,38 @@
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications and web services, i also has good knowledge of embedded software, mobile applications, and  desktop applications development.
-I Actively coding with Laravel and NestJs building APIs and web application (in-house, end user products, and consumers) every day.
-Currently, **I'm open to work and employment opportunities (Remote, Hybrid, On-site depend on location)**.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications and web services, i also have good knowledge of embedded software, mobile applications, and  desktop applications development.
+I actively code backends with Laravel and NestJs, building APIs and web applications (in-house, end-user products, and consumers) every day.
+Currently, **I'm open to work and employment opportunities (Remote, Hybrid, On-site depending on location)**.
 
-- :seedling: Exploring Technical Content Writing, System Designs, System Architecture, DevOps and Embedded Linux.
+- :seedling: Exploring Technical Content Writing, System Designs, System Architecture, DevOps, and Embedded Linux.
 
 - :zap: In my free time, I love watching movies, solving problems, and reading tech articles.
 
-## Languages, Frameworks and Tools
+## Languages, Frameworks, and Tools
 
 <div align="center">
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nestjs" alt="Nestjs" width="40" height="40"/>&nbsp;
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+
 
 </div>
 
 ---
 
-<div align="center">
-  
+<div align="center"> 
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
-
+  ![Next.js](https://img.shields.io/badge/Next.js-563D7C?style=flat-square&logo=nextjs&logoColor=white)
   ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
   ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-  
 </div>
 
 ---
