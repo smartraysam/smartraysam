@@ -70,7 +70,6 @@ Currently, **I'm open to work and employment opportunities (Remote, Hybrid, On-s
   ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 
-
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
@@ -78,8 +77,7 @@ Currently, **I'm open to work and employment opportunities (Remote, Hybrid, On-s
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 
   ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-   ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=aws&logoColor=white)
-
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=aws&logoColor=white)
 
 </div>
 
