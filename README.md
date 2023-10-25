@@ -28,7 +28,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 I actively code backends with Laravel and NestJs, building APIs and web applications (in-house, end-user products, and consumers) every day.
 Currently, **I'm open to work and employment opportunities (Remote, Hybrid, On-site depending on location)**.
 
-- :seedling: Exploring Technical Content Writing, System Designs, System Architecture, DevOps, and Embedded Linux.
+- :seedling: Exploring Technical Content Writing, System Designs, and Architecture, DevOps, TDD, and Best Practices.
 
 - :zap: In my free time, I love watching movies, solving problems, and reading tech articles.
 
