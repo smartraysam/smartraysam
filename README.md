@@ -30,7 +30,7 @@ Currently, **I'm open to work and employment opportunities (Remote, Hybrid, On-s
 
 - :seedling: Exploring Technical Content Writing, System Designs, and Architecture, DevOps, TDD, and Best Practices.
 
-- :zap: In my free time, I love watching movies, solving problems, and reading tech articles.
+- :zap: In my free time, I love watching movies, Researching, solving problems, and reading tech articles.
 
 ## Languages, Frameworks, and Tools
 
